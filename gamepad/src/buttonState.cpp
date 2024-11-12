@@ -13,7 +13,7 @@ struct ButtonState {
 };
 
 // Umbral de tiempo para considerar una pulsación como larga (en milisegundos)
-const Uint32 LONG_PRESS_THRESHOLD = 1000;
+const Uint32 LONG_PRESS_THRESHOLD = 500;
 
 // Mapa para almacenar el estado de los botones
 std::unordered_map<Uint8, ButtonState> buttonStates;
@@ -76,7 +76,9 @@ int main(int argc, char* argv[]) {
             if (event.type == SDL_QUIT) {
                 running = false;
             } else if (event.type == SDL_CONTROLLERBUTTONDOWN) {
-                buttonStates[event.cbutton.button] = { true, SDL_GetTicks() };
+                //buttonStates[event.cbutton.button] = {true, SDL_GetTicks()};
+                buttonStates[event.cbutton.button].isPressed = true;
+                buttonStates[event.cbutton.button].pressTime = SDL_GetTicks();
             } else if (event.type == SDL_CONTROLLERBUTTONUP) {
                 ButtonState& state = buttonStates[event.cbutton.button];
                 Uint32 currentTime = SDL_GetTicks();
@@ -84,9 +86,9 @@ int main(int argc, char* argv[]) {
                 state.isPressed = false;
 
                 if (pressDuration >= LONG_PRESS_THRESHOLD) {
-                    std::cout << "Botón " << (int)event.cbutton.button << " mantenido presionado por " << pressDuration << " ms (pulsación larga)" << std::endl;
+                    std::cout << "Botón " << static_cast<int>(event.cbutton.button) << " mantenido presionado por " << pressDuration << " ms (pulsación Larga)" << std::endl;
                 } else {
-                    std::cout << "Botón " << (int)event.cbutton.button << " presionado rápidamente (pulsación corta)" << std::endl;
+                    std::cout << "Botón " << static_cast<int>(event.cbutton.button) << " presionado rápidamente por " << pressDuration << "ms (pulsación Corta)" << std::endl;
                 }
             }
         }
