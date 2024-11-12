@@ -13,3 +13,6 @@
 
 #Ejecutar el Proyecto:
     ./my_sdl2_gamepad_project
+
+
+    

@@ -1,6 +1,6 @@
 #include <SDL2/SDL.h>
 #include <iostream>
-#include <unordered_map>
+#include <unordered_map> //https://en.cppreference.com/w/cpp/container/unordered_map
 
 // Constantes para la ventana
 const int WINDOW_WIDTH = 800;
@@ -68,6 +68,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+
     // Bucle principal
     bool running = true;
     SDL_Event event;
@@ -90,6 +91,9 @@ int main(int argc, char* argv[]) {
                 } else {
                     std::cout << "Botón " << static_cast<int>(event.cbutton.button) << " presionado rápidamente por " << pressDuration << "ms (pulsación Corta)" << std::endl;
                 }
+                    //for (const std::pair<const Uint8,const ButtonState>& n : buttonStates)
+                    //for (const auto& n : buttonStates) //Lo mismo que la linea de arriba
+                    //    std::cout << "Botón " << static_cast<int>(event.cbutton.button) << " mantenido presionado por " << pressDuration << " ms (pulsación Larga)" << std::endl;
             }
         }
 
