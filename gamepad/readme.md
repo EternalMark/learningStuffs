@@ -1,4 +1,9 @@
-#Generar proyecto
+#Instalar dependencia MAC OS
+    brew install sdl2
+
+
+#Generar proyecto  
+    mkdir build
     cd build
     cmake ..
 
