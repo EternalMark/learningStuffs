@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.10)
+project(MySDL2GamepadProject)
+
+find_package(SDL2 REQUIRED)
+include_directories(${SDL2_INCLUDE_DIRS})
+
+#add_executable(my_sdl2_gamepad_project src/main.cpp)
+add_executable(my_sdl2_gamepad_project src/combination.cpp)
+target_link_libraries(my_sdl2_gamepad_project ${SDL2_LIBRARIES})
