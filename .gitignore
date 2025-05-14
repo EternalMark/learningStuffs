@@ -29,6 +29,14 @@ __pycache__
 *.tmp
 *.rej
 
+*.mp4
+*.mkv
+*.png
+*.jpg
+cache/
+cache*/
+*.blend
+
 # for CMake
 .cmake
 CMakeFiles/
