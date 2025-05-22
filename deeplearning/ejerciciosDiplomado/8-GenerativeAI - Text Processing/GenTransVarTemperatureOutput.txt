@@ -1,0 +1,2399 @@
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 235ms/step - loss: 6.1764== Generating with temperature 0.2
+This movie its amusing a great and more saturday worst its it quite good extremely effective but it was a pretty much of the general dying in the end [UNK] angle and feel is a good director john [UNK] the bandit if we know is always off with [UNK] dish culture so
+== Generating with temperature 0.5
+This movie and watch it is great christian red production fans to marry a torture [UNK] has this movie nothing the home who can see a b [UNK] the absolute psychopaths type point with 20th versa and this [UNK] for their self and i picked up will put corruption version is repeatedly
+== Generating with temperature 0.7
+This movie its part five here is no hot and it all cherry and [UNK] are good part you captive and i want at it seems to this to bring jerry an brilliant movies the people and live              
+== Generating with temperature 1.0
+This movie just anyone found the new attention lacks the camera just never even looks laura believe antisemitism [UNK] than anything good it or was a boy who reminds them not make it id sitting in [UNK] pose a house it than you find attractive father and some patient a location should
+== Generating with temperature 1.5
+This movie is full of cheap writing if but i think that he and over its a dubious review and yet if it look to kill her [UNK] massacre comedy [UNK] a dreadful budget of about mr plot or set is gorgeous          
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m125s[0m 254ms/step - loss: 6.1752
+Epoch 2/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 5.2929== Generating with temperature 0.2
+This movie is a good great movie                                             
+== Generating with temperature 0.5
+This movie had several black shots of worst but worth wondering                                         
+== Generating with temperature 0.7
+This movie was really surprised i have had read someone will be unbelievable                                       
+== Generating with temperature 1.0
+This movie was highly fun                                               
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 199ms/step - loss: 5.2928
+Epoch 3/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 184ms/step - loss: 5.1363== Generating with temperature 0.2
+This movie is great the only thinking how good it                                          
+== Generating with temperature 0.5
+This movie is probably in my                                              
+== Generating with temperature 0.7
+This movie is a very aware of 10 worldly games great great acting whos going on and i did they can the acting on [UNK] the twists which rest of like the special fx effects cowrote are too nice well some were spawn kind of them      
+== Generating with temperature 1.0
+This movie is a solid cameo entertainment                                             
+== Generating with temperature 1.5
+This movie has a movie that gets a very nice laugh out and yes and laughs acted movie you should only because the utterly heartfelt unbelievable the fight scenes you will [UNK] movie is powerful by the 3d vampire that if you appreciate anything on the lets just more [UNK] and that
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 200ms/step - loss: 5.1362
+Epoch 4/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 5.0383== Generating with temperature 0.2
+This movie will [UNK] film still reminds me its worth our [UNK] one and not                                     
+== Generating with temperature 0.5
+This movie is one of a great [UNK] the reasons if you [UNK] way and [UNK]                                    
+== Generating with temperature 0.7
+This movie from great great significance of all hated it offers no taste and explosive art technology and fairly good moments the musical youll hear [UNK] in the [UNK] the cinema                     
+== Generating with temperature 1.0
+This movie needs to be my legitimate [UNK] never voted [UNK] of a delight it [UNK]                                    
+== Generating with temperature 1.5
+This movie is a pretty fun perhaps because i                                           
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 5.0382
+Epoch 5/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 183ms/step - loss: 4.9648== Generating with temperature 0.2
+This movie [UNK] action in a [UNK] to avoid how can you are a map of plot tries to stay to speak an extreme horrible and gets to be insanely crude [UNK] the be miss it like the film             
+== Generating with temperature 0.5
+This movie the same plot farmers two of the eyes for a movie was timeless plot the [UNK] to keep that left to kill yourself to watch a series but this [UNK] and the cowboy tomatoes didnt speak              
+== Generating with temperature 0.7
+This movie should [UNK] fury is for one of the wizard song is a very well acted and the film about this its not go into a quality of a lot of movie that fails to the characters actually and cabin in this movie [UNK] nurse      
+== Generating with temperature 1.0
+This movie was made it was the beginning to expect it was the worst thing i must think for [UNK] talented played as cox bigtime this an interesting detail make another worth [UNK] cats and so wonderfully effective had none the film puts a good movie      
+== Generating with temperature 1.5
+This movie is a great movie for creating the characters really [UNK] for [UNK] is a very good and this in the very gripping story lots of its load of [UNK] no new music but this a classic ends with alice i feel like an unbelievable and acting is convincing for [UNK]
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 199ms/step - loss: 4.9648
+Epoch 6/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.9070== Generating with temperature 0.2
+This movie is a truly brilliant the first of my car                                         
+== Generating with temperature 0.5
+This movie a still would only out of 10 robert de [UNK] look at age if you immediately your life for the same movies                            
+== Generating with temperature 0.7
+This movie i wanted to recommend it beyond the three precious little bit more i can see this movie                                 
+== Generating with temperature 1.0
+This movie should be so instead                                              
+== Generating with temperature 1.5
+This movie is the outside movie i knew nothing special effects a veritable a [UNK] with wonderful [UNK] dont do not worth buying it if you should be a shark                      
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.9070
+Epoch 7/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.8540== Generating with temperature 0.2
+This movie is too because it must see the reservation                                          
+== Generating with temperature 0.5
+This movie highlights of                                                
+== Generating with temperature 0.7
+This movie starts with                                                
+== Generating with temperature 1.0
+This movie bears [UNK] in the closeups of course weed                                          
+== Generating with temperature 1.5
+This movie is brilliant in the beautiful general                                            
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.8539
+Epoch 8/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.8048== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie deserves                                                 
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.8047
+Epoch 9/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.7493== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.7493
+Epoch 10/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.6169== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.6168
+Epoch 11/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.2665== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.2658
+Epoch 12/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 1.5722== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 1.5705
+Epoch 13/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.2776== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.2774
+Epoch 14/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0829== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0828
+Epoch 15/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0575== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0575
+Epoch 16/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0509== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0509
+Epoch 17/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0482== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0482
+Epoch 18/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0464== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0464
+Epoch 19/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0451== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0451
+Epoch 20/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0440== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0440
+Epoch 21/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0430== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0430
+Epoch 22/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0419== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0419
+Epoch 23/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 0.0410== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0410
+Epoch 24/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0400== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0400
+Epoch 25/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0391== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0391
+Epoch 26/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0382== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0382
+Epoch 27/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0373== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0373
+Epoch 28/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0365== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0365
+Epoch 29/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0356== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0356
+Epoch 30/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0348== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0348
+Epoch 31/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0341== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0341
+Epoch 32/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0334== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0334
+Epoch 33/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0326== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 0.0326
+Epoch 34/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0320== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0320
+Epoch 35/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0314== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0314
+Epoch 36/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0308== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0308
+Epoch 37/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0302== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0302
+Epoch 38/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0297== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0297
+Epoch 39/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0292== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0292
+Epoch 40/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 184ms/step - loss: 0.0286== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 200ms/step - loss: 0.0286
+Epoch 41/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0281== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0281
+Epoch 42/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0277== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0277
+Epoch 43/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0272== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 0.0272
+Epoch 44/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0267== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0267
+Epoch 45/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0262== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0262
+Epoch 46/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0258== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0258
+Epoch 47/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0253== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 0.0253
+Epoch 48/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0248== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0248
+Epoch 49/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0244== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0244
+Epoch 50/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0239== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0239
+Epoch 51/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0234== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0234
+Epoch 52/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0230== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0230
+Epoch 53/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0225== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0225
+Epoch 54/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0220== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0220
+Epoch 55/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0216== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0216
+Epoch 56/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0210== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0210
+Epoch 57/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0205== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0205
+Epoch 58/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0201== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0201
+Epoch 59/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0196== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0196
+Epoch 60/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0191== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0191
+Epoch 61/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0186== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0186
+Epoch 62/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0181== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0181
+Epoch 63/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0176== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0176
+Epoch 64/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0171== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0171
+Epoch 65/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0166== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0166
+Epoch 66/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0161== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0161
+Epoch 67/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0156== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0156
+Epoch 68/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0151== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0151
+Epoch 69/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0146== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0146
+Epoch 70/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0141== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0141
+Epoch 71/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0136== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0136
+Epoch 72/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0131== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0131
+Epoch 73/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0127== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0127
+Epoch 74/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0121== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0121
+Epoch 75/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0117== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0117
+Epoch 76/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0112== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0112
+Epoch 77/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0108== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0108
+Epoch 78/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0103== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0103
+Epoch 79/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0099== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0099
+Epoch 80/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0094== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0094
+Epoch 81/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0089== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0089
+Epoch 82/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0085== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0085
+Epoch 83/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0081== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0081
+Epoch 84/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0077== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0077
+Epoch 85/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0072== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0072
+Epoch 86/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0069== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0069
+Epoch 87/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0064== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0064
+Epoch 88/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0061== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0061
+Epoch 89/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0058== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0058
+Epoch 90/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0054== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0054
+Epoch 91/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0051== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0051
+Epoch 92/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0048== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0048
+Epoch 93/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0045== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0045
+Epoch 94/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0042== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0042
+Epoch 95/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0039== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0039
+Epoch 96/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0036== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0036
+Epoch 97/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0033== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0033
+Epoch 98/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0031== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0031
+Epoch 99/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0029== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0029
+Epoch 100/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0027== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0027
+Epoch 101/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0025== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 0.0025
+Epoch 102/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0024== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0024
+Epoch 103/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0021== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0021
+Epoch 104/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0019== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0019
+Epoch 105/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0018== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0018
+Epoch 106/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0017== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0017
+Epoch 107/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0015== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0015
+Epoch 108/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0015== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0015
+Epoch 109/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0013== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0013
+Epoch 110/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0012== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0012
+Epoch 111/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0013== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0013
+Epoch 112/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0011== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 0.0011
+Epoch 113/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 0.0010== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 0.0010
+Epoch 114/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.5093e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 9.5083e-04
+Epoch 115/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 8.2892e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 8.2897e-04
+Epoch 116/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 8.2654e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 8.2658e-04
+Epoch 117/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 7.4372e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 7.4375e-04
+Epoch 118/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 8.0611e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 8.0607e-04
+Epoch 119/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.8581e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.8587e-04
+Epoch 120/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.3941e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.3944e-04
+Epoch 121/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.7806e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.7788e-04
+Epoch 122/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.2932e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.2932e-04
+Epoch 123/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.5461e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.5465e-04
+Epoch 124/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 5.8986e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 5.8979e-04
+Epoch 125/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 5.6695e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 5.6697e-04
+Epoch 126/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 6.6735e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 6.6724e-04
+Epoch 127/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 184ms/step - loss: 5.2801e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 200ms/step - loss: 5.2786e-04
+Epoch 128/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.9396e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.9407e-04
+Epoch 129/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 5.1323e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 5.1322e-04
+Epoch 130/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.6290e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.6299e-04
+Epoch 131/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 183ms/step - loss: 4.6801e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 199ms/step - loss: 4.6809e-04
+Epoch 132/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.9097e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.9102e-04
+Epoch 133/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.5565e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.5551e-04
+Epoch 134/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 3.7459e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 3.7449e-04
+Epoch 135/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.3341e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.3344e-04
+Epoch 136/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 5.8218e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 5.8226e-04
+Epoch 137/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 6.8095e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 6.8037e-04
+Epoch 138/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 3.5090e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 3.5096e-04
+Epoch 139/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.9951e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.9958e-04
+Epoch 140/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 4.6467e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.6464e-04
+Epoch 141/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 3.7037e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 3.7049e-04
+Epoch 142/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 3.6820e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 3.6819e-04
+Epoch 143/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 3.1996e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 3.1992e-04
+Epoch 144/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.8385e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.8376e-04
+Epoch 145/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 3.0575e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 3.0572e-04
+Epoch 146/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.8128e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.8125e-04
+Epoch 147/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.4802e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.4814e-04
+Epoch 148/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.6720e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.6727e-04
+Epoch 149/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.2633e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.2636e-04
+Epoch 150/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.0298e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.0301e-04
+Epoch 151/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 187ms/step - loss: 2.0719e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m79s[0m 203ms/step - loss: 2.0725e-04
+Epoch 152/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 189ms/step - loss: 2.2828e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m81s[0m 206ms/step - loss: 2.2835e-04
+Epoch 153/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 188ms/step - loss: 2.4323e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m80s[0m 205ms/step - loss: 2.4324e-04
+Epoch 154/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 171ms/step - loss: 2.2437e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m73s[0m 188ms/step - loss: 2.2440e-04
+Epoch 155/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 190ms/step - loss: 1.7656e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m81s[0m 207ms/step - loss: 1.7661e-04
+Epoch 156/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 187ms/step - loss: 1.6658e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m80s[0m 204ms/step - loss: 1.6656e-04
+Epoch 157/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 178ms/step - loss: 1.5585e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m76s[0m 194ms/step - loss: 1.5587e-04
+Epoch 158/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 184ms/step - loss: 2.6734e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 200ms/step - loss: 2.6731e-04
+Epoch 159/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.8918e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.8913e-04
+Epoch 160/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 1.4231e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 1.4230e-04
+Epoch 161/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 1.6918e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 1.6933e-04
+Epoch 162/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 4.4416e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 4.4408e-04
+Epoch 163/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.3951e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.3938e-04
+Epoch 164/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 1.5855e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 1.5878e-04
+Epoch 165/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.5616e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.5614e-04
+Epoch 166/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.4616e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.4615e-04
+Epoch 167/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.2645e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.2654e-04
+Epoch 168/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 6.5302e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 6.5257e-04
+Epoch 169/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 181ms/step - loss: 2.9010e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 197ms/step - loss: 2.8998e-04
+Epoch 170/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.9405e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.9405e-04
+Epoch 171/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.3667e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.3665e-04
+Epoch 172/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.2178e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.2177e-04
+Epoch 173/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.3125e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.3125e-04
+Epoch 174/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.1596e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.1596e-04
+Epoch 175/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.1153e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.1152e-04
+Epoch 176/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0872e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.0872e-04
+Epoch 177/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0621e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 1.0620e-04
+Epoch 178/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0406e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.0406e-04
+Epoch 179/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0210e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.0210e-04
+Epoch 180/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0132e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.0133e-04
+Epoch 181/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0002e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.0002e-04
+Epoch 182/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.9057e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 9.9060e-05
+Epoch 183/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.6836e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 9.6844e-05
+Epoch 184/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 4.0991e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 4.0929e-04
+Epoch 185/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.6233e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 9.6233e-05
+Epoch 186/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.1061e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.1063e-04
+Epoch 187/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.1943e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 1.1941e-04
+Epoch 188/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.2368e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 9.2367e-05
+Epoch 189/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 184ms/step - loss: 9.3415e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m79s[0m 201ms/step - loss: 9.3560e-05
+Epoch 190/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 172ms/step - loss: 5.4702e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m74s[0m 188ms/step - loss: 5.4688e-04
+Epoch 191/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 183ms/step - loss: 4.4721e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 199ms/step - loss: 4.4720e-04
+Epoch 192/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.5442e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 2.5443e-04
+Epoch 193/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.3869e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 2.3861e-04
+Epoch 194/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.9110e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m77s[0m 198ms/step - loss: 2.9102e-04
+Epoch 195/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 3.0385e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 3.0378e-04
+Epoch 196/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 2.8375e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 2.8358e-04
+Epoch 197/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.7065e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 1.7057e-04
+Epoch 198/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.1552e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 1.1557e-04
+Epoch 199/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 1.0099e-04== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 1.0098e-04
+Epoch 200/200
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 182ms/step - loss: 9.0476e-05== Generating with temperature 0.2
+This movie                                                  
+== Generating with temperature 0.5
+This movie                                                  
+== Generating with temperature 0.7
+This movie                                                  
+== Generating with temperature 1.0
+This movie                                                  
+== Generating with temperature 1.5
+This movie                                                  
+[1m391/391[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m78s[0m 198ms/step - loss: 9.0474e-05
