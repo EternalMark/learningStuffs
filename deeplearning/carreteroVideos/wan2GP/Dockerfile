@@ -28,7 +28,7 @@ RUN pip install --upgrade pip
 # Establece el directorio de trabajo
 WORKDIR /home/wan2gp
 
-# Expone el puerto para Jupyter Notebook
+# Expone el puerto para gradio de python
 EXPOSE 7860
 
 # Comando para ejecutar Jupyter Notebook
@@ -52,9 +52,6 @@ EXPOSE 7860
 #https://jupyter-server.readthedocs.io/en/latest/operators/public-server.html
 #jupyter server --generate-config 
 #jupyter server password 
-
-
-
 
 
 #Para detectar la GPU y evitar el error "docker: Error response from daemon: could not select device driver "" with capabilities: [[gpu]].""
