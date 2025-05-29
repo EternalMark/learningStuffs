@@ -46,7 +46,7 @@ CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--al
 ## Con "-it --env DISPLAY=$DISPLAY --volume /tmp/.X11-unix:/tmp/.X11-unix " da permisos para el display de la compu
 #docker run -p 8870:8888 -v /mnt/SSD2T/2-DiplomadoIA/DeepLearning/dockersdata/carreterocontainer:/home/carretero --gpus all --ipc=host --name carreterocontainer carreterodockerimage 
 #docker run -p 8871:8888 -v /mnt/SSD2T/2-DiplomadoIA/DeepLearning/dockersdata/openGL:/home/carretero -it --env DISPLAY=$DISPLAY --volume /tmp/.X11-unix:/tmp/.X11-unix --gpus all --ipc=host --name openglcontainer carreterodockerimage 
-
+#docker run -p 8873:8888 -v /home/markos/Documentos/Carretero:/home/carretero -it --env DISPLAY=$DISPLAY --volume /tmp/.X11-unix:/tmp/.X11-unix --gpus all -it -e NVIDIA_VISIBLE_DEVICES=all -e NVIDIA_DRIVER_CAPABILITIES=all --ipc=host --name carreterocontainer2 carreterodockerimage
 
 #Crear jupiter server cambiar contraseña (Despues de crear el contenedor)
 #https://jupyter-server.readthedocs.io/en/latest/operators/public-server.html
